@@ -1,14 +1,39 @@
 /* header */
-.banner{
+.banner {
     height: 100px;
-    width: 100% ;
+    width: 100%;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
     background-size: 20%;
 }
 
-.logo{
+.logo {
     height: 50px;
     margin-top: 40px;
 }
 /* /header */
+
+/* main */
+
+/** title and photos */
+h1 {
+    margin-bottom: 0px;
+}
+
+.first-p {
+    color: #808080;
+    margin-top: 0px;
+}
+
+.name {
+    color: #20A9E5;
+}
+
+.date {
+    font-size: 13px;
+}
+
+figcaption {
+    font-size: 13px;
+}
+/** /title and photos */
