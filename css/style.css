@@ -1,39 +1,56 @@
-/* header */
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+/* Header */
 .banner {
     height: 100px;
     width: 100%;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
-    background-size: 20%;
+    background-size: 37%;
 }
 
 .logo {
     height: 50px;
     margin-top: 40px;
 }
-/* /header */
 
-/* main */
+/* /Header */
 
-/** title and photos */
+/* Main */
+
+/** Header article */
 h1 {
     margin-bottom: 0px;
+    margin-top: 15px;
+    font-size: 40px;
 }
 
-.first-p {
+address {
     color: #808080;
     margin-top: 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
 }
 
-.name {
+time {
+    color: #808080;
+    font-size: 14px;
+}
+
+header span {
     color: #20A9E5;
 }
 
-.date {
-    font-size: 13px;
+.figure-section {
+    margin-left: 0px;
 }
 
 figcaption {
     font-size: 13px;
 }
-/** /title and photos */
+
+/** /Header article */
