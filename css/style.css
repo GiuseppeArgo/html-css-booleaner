@@ -94,3 +94,31 @@ th {
 }
 
 /** /Second content section  */
+
+/** Advertising section */
+
+h3 {
+    margin-top: 35px;
+    color: #808080;
+}
+
+.box {
+    width: 290px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 15px; 
+    padding-left: 10px; 
+    color: white; 
+}
+
+.graph {
+   background-image: url(../img/graph.jpg);
+} 
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+} 
+
+/* /Advertising section */
